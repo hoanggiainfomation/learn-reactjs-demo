@@ -7,6 +7,8 @@ function App() {
       moi thay doi
       <p>thay doi lan 2</p>
       <p>thay doi lan 3</p>
+     <p>thay doi lan 3</p>
+     <p>thay doi lan 3 git push</p>
     </div>
   );
 }
