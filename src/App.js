@@ -12,8 +12,15 @@ function App() {
       <p>
         thay doi lan 3 git puadasdawdasdawsdawsdawdawsdasdasdasdasd sh sua lai
       </p>
+      <div>asdadaasd</div>
+      <img src="" alt="" />
+      <p></p>
+      <a href=""></a>
+      <ul>
+        <li>asdasdasd</li>
+      </ul>
     </div>
   );
 }
-
+const temple = `<div><img/></div>`;
 export default App;
