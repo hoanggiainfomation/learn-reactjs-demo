@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       moi thay doi
       <p>thay doi lan 2</p>
+      <p>thay doi lan 3</p>
     </div>
   );
 }
